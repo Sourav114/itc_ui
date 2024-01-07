@@ -1,0 +1,31 @@
+class AppStrings {
+  static const login = "Login";
+  static const otp = "OTP";
+  static const resend = "Resend";
+  static const verify = "Verify";
+  static const getOtp = "Get OTP";
+  static const msgEnterYourMobileCode = "Enter your mobile number";
+  static const msgDidNotReceiveCode = "Didn’t receive code ? ";
+  static const msgPleaseEnterOtp = "Please enter the 4 digit OTP sent to your mobile number for verification";
+  static const dashboardWelcom="Welcome";
+  static const profile="Profile";
+  static const openCamera="Open Camera";
+  static const submit="Submit";
+  static const images="Images";
+  static const logOut="Logout";
+  static const apply="Apply";
+  static const filterBy="Filter By";
+  static const sortBy="Sort By";
+  static const audited="Audited Quantity";
+  static const more="More than 6 months";
+  static const less="Less than 6 months";
+  static const eligible="Eligible";
+  static const cancel="Cancel";
+  static const remarks="Remarks";
+  static const salvage="Salvage";
+  static const quantity="Quantity";
+  static const uom="UOM";
+  static const rate="Rate";
+  static const value="Value";
+  static const imageSubmitted ="$images Submitted";
+}
